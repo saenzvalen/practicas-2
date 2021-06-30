@@ -1,2 +1,2 @@
-# practicas-2
-practicas-2
+# Prácticas-2
+
